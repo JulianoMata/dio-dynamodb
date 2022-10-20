@@ -133,5 +133,5 @@ aws dynamodb query \
 
 *Inicialmente utilizei  `Anaconda Prompt` e `PowerShell` no Windows 11, houve problemas com caracteres [aspas("" e '')](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-usage-parameters-quoting-strings.html) durante as `querys` e a barra invertida referindo-se a quebra de linha.*
 
-*Por `default` a saída foi definida `'json'` mas pode ser alterada para `'text'` ou `'table'` com comando ` --output text'` ou ` --output table`* 
+*Por `default` a saída foi definida `'json'` mas pode ser alterada para `'text'` ou `'table'` com comando ` --output text` ou ` --output table`* 
 
