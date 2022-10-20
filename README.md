@@ -10,7 +10,7 @@ Meu primeiro contato com este Serviço de banco de dados NoSQL.
 
   - [Amazon DynamoDB](https://aws.amazon.com/pt/pm/dynamodb/?trk=9f13c7e6-248e-4519-8a1f-a041f2e877c4&sc_channel=ps&s_kwcid=AL!4422!3!626321541353!e!!g!!amazon%20dynamodb&ef_id=Cj0KCQjw48OaBhDWARIsAMd966CKJ0SixizRoT01B8CtYnv8JYsrWfrzXqL349nICCDA-AW-IM-5rxsaAqHgEALw_wcB:G:s&s_kwcid=AL!4422!3!626321541353!e!!g!!amazon%20dynamodb)
 
-    ![](https://uploaddeimagens.com.br/images/004/070/208/thumb/dynamodb_imagem.png)
+    ![](https://uploaddeimagens.com.br/images/004/070/274/full/dynamodb_imagem.png)
 
 ### Comandos para execução do experimento:
 
