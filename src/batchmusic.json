@@ -1,0 +1,54 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Capital Inicial"},
+                  "SongTitle": {"S": "Natasha"},
+                  "AlbumTitle": {"S": "Acustico MTV"},
+                  "SongYear": {"S": "2000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Capital Inicial"},
+                  "SongTitle": {"S": "Todas as noites"},
+                  "AlbumTitle": {"S": "Eletricidade"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Capital Inicial"},
+                  "SongTitle": {"S": "Eu vou estar"},
+                  "AlbumTitle": {"S": "Atras dos olhos"},
+                  "SongYear": {"S": "1998"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Engenheiros do Hawaii"},
+                "SongTitle": {"S": "Era um garoto que como eu amava os Beatles e os Rolling Stones"},
+                "AlbumTitle": {"S": "O Papa e Pop"},
+                "SongYear": {"S": "1990"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Engenheiros do Hawaii"},
+                "SongTitle": {"S": "Pra ser sincero"},
+                "AlbumTitle": {"S": "O Papa e Pop"},
+                "SongYear": {"S": "1990"}
+              }
+          }
+        }
+      ]
+}
