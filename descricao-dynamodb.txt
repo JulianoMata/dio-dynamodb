@@ -1,0 +1,139 @@
+Descrição
+*********
+
+O Amazon DynamoDB é um serviço de banco de dados NoSQL totalmente gerenciado que
+fornece desempenho rápido e previsível com escalabilidade perfeita.
+O DynamoDB permite que você descarregue os encargos administrativos de operação e
+dimensionar um banco de dados distribuído, para que você não precise se preocupar com
+provisionamento de hardware, instalação e configuração, replicação, software
+patch ou dimensionamento de cluster.
+
+Com o DynamoDB, você pode criar tabelas de banco de dados que podem armazenar e
+recuperar qualquer quantidade de dados e atender a qualquer nível de tráfego de solicitação.
+Você pode aumentar ou diminuir a capacidade de taxa de transferência de suas tabelas
+sem tempo de inatividade ou degradação de desempenho e use o Amazon Web
+Console de Gerenciamento de Serviços para monitorar a utilização de recursos e
+métricas de desempenho.
+
+O DynamoDB distribui automaticamente os dados e o tráfego para suas tabelas
+em um número suficiente de servidores para lidar com sua taxa de transferência e
+requisitos de armazenamento, mantendo consistente e rápido
+atuação. Todos os seus dados são armazenados em discos de estado sólido (SSDs)
+e replicado automaticamente em várias zonas de disponibilidade em um
+Amazon Web Services Region, oferecendo alta disponibilidade e
+durabilidade dos dados.
+
+Comandos disponíveis
+********************
+
+* batch-execute-statement
+
+* batch-get-item
+
+* batch-write-item
+
+* create-backup
+
+* create-global-table
+
+* create-table
+
+* delete-backup
+
+* delete-item
+
+* delete-table
+
+* describe-backup
+
+* describe-continuous-backups
+
+* describe-contributor-insights
+
+* describe-endpoints
+
+* describe-export
+
+* describe-global-table
+
+* describe-global-table-settings
+
+* describe-import
+
+* describe-kinesis-streaming-destination
+
+* describe-limits
+
+* describe-table
+
+* describe-table-replica-auto-scaling
+
+* describe-time-to-live
+
+* disable-kinesis-streaming-destination
+
+* enable-kinesis-streaming-destination
+
+* execute-statement
+
+* execute-transaction
+
+* export-table-to-point-in-time
+
+* get-item
+
+* help
+
+* import-table
+
+* list-backups
+
+* list-contributor-insights
+
+* list-exports
+
+* list-global-tables
+
+* list-imports
+
+* list-tables
+
+* list-tags-of-resource
+
+* put-item
+
+* query
+
+* restore-table-from-backup
+
+* restore-table-to-point-in-time
+
+* scan
+
+* tag-resource
+
+* transact-get-items
+
+* transact-write-items
+
+* untag-resource
+
+* update-continuous-backups
+
+* update-contributor-insights
+
+* update-global-table
+
+* update-global-table-settings
+
+* update-item
+
+* update-table
+
+* update-table-replica-auto-scaling
+
+* update-time-to-live
+
+* wait
+
+* wizard
